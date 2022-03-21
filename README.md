@@ -1,6 +1,6 @@
 ### Hi there, I'm Toam
 
-## I'm a Developer and a Teacher in AppleSeeds Academy
+## I'm a Developer and a Teacher at AppleSeeds Academy
 
 ### For cloning this project please follow the instructions:
 
