@@ -112,8 +112,14 @@ ul {
 	text-align: center;
 	font-size: xxx-large;
 	margin: 100px 0px;
+	color: #289972;
 }
 
 .close li {
 	display: none;
+}
+
+label {
+	font-size: 30px;
+	color: #1b6860;
 }
