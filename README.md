@@ -2,7 +2,7 @@
 
 ## I'm a Developer and Teacher in AppleSeeds Academy
 
-### For cloning this project please flow the instructions:
+### For cloning this project please follow the instructions:
 
 1. - Make sure you are in the folder where you want to clone this project
 2. - Open the git bash terminal in the folder where you wanted to clone the project
