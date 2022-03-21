@@ -1,0 +1,54 @@
+body {
+	font: 81.25%/1.75 "Open Sans", "Helvetica Neue", Arial, sans-serif;
+}
+
+#dropbox-4xx-error-page {
+	width: 100%;
+}
+
+.dropbox-4xx-main-error-page-header {
+	position: relative;
+	width: 100%;
+}
+
+.dropbox-4xx-main-header-error-page-img {
+	width: 318px;
+}
+
+.dropbox-4xx-main-error-page-header-figure {
+	text-align: center;
+	font-weight: lighter;
+	padding-top: 31px;
+	font-family: "Open Sans", "lucida grande", "Segoe UI", arial, verdana, "lucida sans unicode", tahoma, sans-serif;
+}
+
+.dropbox-4xx-main-error-page-header-figure-figcaption-header {
+	font-size: 40px;
+	line-height: 40px;
+}
+
+.dropbox-4xx-main-error-header-figure-figcaption-sub-header {
+	font-size: 25px;
+	color: rgba(0, 0, 0, 0.75);
+}
+
+.dropbox-4xx-main-error-page-header-figure-list {
+	text-align: center;
+	width: 100%;
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+.dropbox-4xx-main-error-page-header-figure-list-items-header {
+	font-weight: lighter;
+	font-size: 17px;
+	line-height: 20px;
+	margin-bottom: 20px;
+}
+
+.dropbox-4xx-main-error-page-header-figure-list-link-item {
+	font-size: 15px;
+	color: rgb(55, 55, 255);
+	line-height: 35px;
+}
