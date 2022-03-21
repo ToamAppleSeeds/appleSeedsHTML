@@ -10,6 +10,6 @@
 
 ### Connect with AppleSeeds Academy team:
 
-[Toam](https://github.com/Toam10)
-[Mordecai](https://github.com/morMBen)
-[Shani](https://github.com/rabashani)
+- [Toam](https://github.com/Toam10)
+- [Mordecai](https://github.com/morMBen)
+- [Shani](https://github.com/rabashani)
